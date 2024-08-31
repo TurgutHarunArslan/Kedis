@@ -11,8 +11,7 @@ I was bored
 Hashmap
 
 ### Is it fast?
-Not sure but its able to handle some test data
-
+its "blazingly fast"
 
 
 ## Authors
